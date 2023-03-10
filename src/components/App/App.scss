@@ -19,6 +19,7 @@
     height: 52px;
     font-size: 2rem;
     @include borders;
+    @include buttons;
     cursor: pointer;
 }
 
